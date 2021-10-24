@@ -11,6 +11,14 @@
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
  */
 
+ .small-item{
+   height:400px;
+ }
+
+ .big-item{
+   height: 600px;
+ }
+
  .picture{
   border-radius: 50%;
   height: 200px;
