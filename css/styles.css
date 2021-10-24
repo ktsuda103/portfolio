@@ -17,6 +17,10 @@
   width: 320px;
 }
 
+.profile{
+  font-weight: bold;
+}
+
 :root {
   --bs-blue: #1D809F;
   --bs-indigo: #6610f2;
